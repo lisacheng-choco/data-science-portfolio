@@ -7,5 +7,7 @@ Portfolio of data science projects completed by me for self learning and hobby p
 - [HousePricing: Find the best transformers using Pipeline with GridSearchCV](https://www.kaggle.com/chiaoyicheng/data-transformer-selection-with-pipeline): Experiment of how to combine Pipeline and GridSearchCV to find the best Scaler, Imputer, and different transformers for the machine learning models by using [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) in Kaggle.
 - [Otto Group Product Classification Challenge](https://www.kaggle.com/chiaoyicheng/ensemble-model): The challenge is a multiple classification problem on Kaggle. Built an ensemble model to predict category based on information about products. The score of ensemble model was better than any individual model. Techniques included optimization algorithm and hyperparameter tuning.  
 
+*Tools: scikit-learn, Pandas, Seaborn, Matplotlib*
+
 ## Coursera
 - [Mathematics for Machine Learning - Linear Algebra](https://github.com/lisacheng-choco/coursera_mathematics-for-machine-learning)
